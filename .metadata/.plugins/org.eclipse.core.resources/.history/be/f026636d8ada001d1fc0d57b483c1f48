@@ -1,0 +1,9 @@
+package poly.instanceof_;
+
+public class Student extends Human{
+
+	public Student() {
+		super("이형승", 25);
+		
+	}
+}

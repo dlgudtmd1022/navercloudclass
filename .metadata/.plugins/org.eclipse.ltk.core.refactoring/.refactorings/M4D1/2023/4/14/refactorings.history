@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;Baek/src&apos;&#x0D;&#x0A;- Original project: &apos;M4D1&apos;&#x0D;&#x0A;- Destination element: &apos;Baek/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Baek1001.java&#x0D;&#x0A;     Baek9498.java&#x0D;&#x0A;     Baek1000.java&#x0D;&#x0A;     Baek10871.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Baek/src" element1="/src&lt;{Baek1001.java" element2="/src&lt;{Baek9498.java" element3="/src&lt;{Baek1000.java" element4="/src&lt;{Baek10871.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1680658204823" units="4" version="1.0"/>
+</session>

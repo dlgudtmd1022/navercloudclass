@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\AIA\eclipse-workspace\day05_t.zip"/>
+			<item value="C:\Users\AIA\eclipse-workspace\week1.zip.zip"/>
+			<item value="C:\Users\AIA\eclipse-workspace\day03.zip"/>
+			<item value="C:\Users\AIA\Desktop\강의\day03_t.zip"/>
+			<item value="C:\Users\AIA\eclipse-workspace\day01.zip"/>
+			<item value="C:\Users\AIA\eclipse-workspace\day02.zip"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\daliylecture"/>
+			<item value="C:\Users\AIA\eclipse-workspace"/>
+			<item value="C:\Users\AIA\eclipse-workspace\Algorithm\src"/>
+			<item value="C:\Users\AIA\eclipse-workspace\Algorithm"/>
+		</list>
+	</section>
+</section>

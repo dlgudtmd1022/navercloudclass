@@ -1,0 +1,15 @@
+package poly.instanceof_;
+
+public class Main {
+
+	private void mian() {
+		// TODO Auto-generated method stub
+
+		
+		Human h1 = new Human();
+		Human h2 = new Human("또자", 20);
+		
+		h1.showInfo();
+		h2.showInfo();
+	}
+}
