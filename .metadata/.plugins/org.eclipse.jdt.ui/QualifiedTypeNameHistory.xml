@@ -7,13 +7,13 @@
     <fullyQualifiedTypeName name="fruit.Mango"/>
     <fullyQualifiedTypeName name="hello.hi.Hi"/>
     <fullyQualifiedTypeName name="hello.bye.Bye"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="example.overload.Human"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="example.modi.cls.pk1.B"/>
     <fullyQualifiedTypeName name="example.modi.constructor.pk1.A"/>
     <fullyQualifiedTypeName name="example.modi.member.pk1.A"/>
     <fullyQualifiedTypeName name="example.modi.protec.pk1.A"/>
     <fullyQualifiedTypeName name="example.encap.good.MyBirthday"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

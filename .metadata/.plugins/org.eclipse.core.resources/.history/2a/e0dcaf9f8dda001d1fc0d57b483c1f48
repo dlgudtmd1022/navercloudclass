@@ -1,9 +1,0 @@
-package poly.instanceof_;
-
-public class MainCalss2 {
-
-	public static void main(String[] args) {
-		Cat c1 = new Cat("까미", 1);
-		c1.meow();
-	}
-}
